@@ -1,0 +1,13 @@
+h1{ 
+    text-align: center;
+    background-color: rgb(172, 219, 208);
+    font-family: fantasy;
+}
+h3{
+    background-color: ghostwhite;
+    color: black;
+    font-family: fantasy;
+}
+.fondo{
+    background-color: rgb(172, 219, 208);
+}
